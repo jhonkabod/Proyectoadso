@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAlquilerMotos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9b2c08f3bcfb4664091dd1c595c3d0c96af98b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fe63bbccf2054e2051114baff0d26f0ff95b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAlquilerMotos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAlquilerMotos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
