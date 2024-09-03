@@ -1,0 +1,6 @@
+C:\estudio\NcapaDatos\NcapaEntidades\bin\Debug\NcapaEntidades.dll
+C:\estudio\NcapaDatos\NcapaEntidades\bin\Debug\NcapaEntidades.pdb
+C:\estudio\NcapaDatos\NcapaEntidades\obj\Debug\NcapaEntidades.csproj.AssemblyReference.cache
+C:\estudio\NcapaDatos\NcapaEntidades\obj\Debug\NcapaEntidades.csproj.CoreCompileInputs.cache
+C:\estudio\NcapaDatos\NcapaEntidades\obj\Debug\NcapaEntidades.dll
+C:\estudio\NcapaDatos\NcapaEntidades\obj\Debug\NcapaEntidades.pdb
