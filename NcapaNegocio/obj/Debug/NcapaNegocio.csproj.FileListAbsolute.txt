@@ -1,0 +1,11 @@
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaNegocio.dll
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaNegocio.pdb
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaDatos.dll
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaEntidades.dll
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaDatos.pdb
+C:\estudio\NcapaDatos\NcapaNegocio\bin\Debug\NcapaEntidades.pdb
+C:\estudio\NcapaDatos\NcapaNegocio\obj\Debug\NcapaNegocio.csproj.AssemblyReference.cache
+C:\estudio\NcapaDatos\NcapaNegocio\obj\Debug\NcapaNegocio.csproj.CoreCompileInputs.cache
+C:\estudio\NcapaDatos\NcapaNegocio\obj\Debug\NcapaNeg.710879D4.Up2Date
+C:\estudio\NcapaDatos\NcapaNegocio\obj\Debug\NcapaNegocio.dll
+C:\estudio\NcapaDatos\NcapaNegocio\obj\Debug\NcapaNegocio.pdb
