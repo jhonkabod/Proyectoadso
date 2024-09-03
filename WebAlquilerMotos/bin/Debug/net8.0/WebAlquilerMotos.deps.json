@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebAlquilerMotos/1.0.0": {
+        "dependencies": {
+          "NcapaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "WebAlquilerMotos.dll": {}
+        }
+      },
+      "NcapaDatos/1.0.0": {
+        "runtime": {
+          "NcapaDatos.dll": {}
+        }
+      },
+      "NcapaEntidades/1.0.0": {
+        "runtime": {
+          "NcapaEntidades.dll": {}
+        }
+      },
+      "NcapaNegocio/1.0.0": {
+        "dependencies": {
+          "NcapaDatos": "1.0.0",
+          "NcapaEntidades": "1.0.0"
+        },
+        "runtime": {
+          "NcapaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAlquilerMotos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NcapaDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NcapaEntidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NcapaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

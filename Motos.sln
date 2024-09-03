@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NcapaDatos", "NcapaDatos\NcapaDatos.csproj", "{BBC85F23-8D4F-479C-A668-A8C87C5DD702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NcapaNegocio", "NcapaNegocio\NcapaNegocio.csproj", "{199E1AD4-0874-4294-80B6-DC5C7A218767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NcapaEntidades", "NcapaEntidades\NcapaEntidades.csproj", "{3F2016E6-3701-43D1-BEC3-77D7316E8893}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entidades", "Entidades", "{8647D3B6-076F-4CA5-979A-308BDF71A1E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datos", "Datos", "{A7D3E812-3A1A-42B0-9FD7-2B9A94099822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Negocio", "Negocio", "{6B86B07D-21E6-45A0-B9A0-3DE3431FC784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAlquilerMotos", "WebAlquilerMotos\WebAlquilerMotos.csproj", "{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{0F8700BD-2976-490E-96BB-0447EA61D464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC85F23-8D4F-479C-A668-A8C87C5DD702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC85F23-8D4F-479C-A668-A8C87C5DD702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC85F23-8D4F-479C-A668-A8C87C5DD702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC85F23-8D4F-479C-A668-A8C87C5DD702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199E1AD4-0874-4294-80B6-DC5C7A218767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199E1AD4-0874-4294-80B6-DC5C7A218767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199E1AD4-0874-4294-80B6-DC5C7A218767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199E1AD4-0874-4294-80B6-DC5C7A218767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2016E6-3701-43D1-BEC3-77D7316E8893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2016E6-3701-43D1-BEC3-77D7316E8893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2016E6-3701-43D1-BEC3-77D7316E8893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2016E6-3701-43D1-BEC3-77D7316E8893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BBC85F23-8D4F-479C-A668-A8C87C5DD702} = {A7D3E812-3A1A-42B0-9FD7-2B9A94099822}
+		{199E1AD4-0874-4294-80B6-DC5C7A218767} = {6B86B07D-21E6-45A0-B9A0-3DE3431FC784}
+		{3F2016E6-3701-43D1-BEC3-77D7316E8893} = {8647D3B6-076F-4CA5-979A-308BDF71A1E1}
+		{ADFA1AE4-95DE-489F-B4EA-088B7F6AB16E} = {0F8700BD-2976-490E-96BB-0447EA61D464}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B708374B-F397-4CAD-BBBF-BE10150307F5}
+	EndGlobalSection
+EndGlobal
